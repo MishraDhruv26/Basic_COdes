@@ -2,5 +2,8 @@
 // print a to the power of b
 int main()
 {
-    int a,b;
+    double a,b;
+    double result=pow(a, b);
+    cout<<"the power is"<<result;
+    return 0;
 }
